@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonhub)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=demonhub&theme=radical&show_icons=true)](https://github.com/demonhub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonhub&layout=compact&theme=radical)](https://github.com/demonhub)
